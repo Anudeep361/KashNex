@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #f8fafc;
+  color: #18181b;
+}
+
+main {
+  max-width: 800px;
+  margin: 3rem auto 0 auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.07);
+}
+
+h1 {
+  color: #06d6a0;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #06d6a0;
+  text-decoration: underline;
+}
